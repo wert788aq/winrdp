@@ -1,0 +1,15 @@
+Vatican
+Pope
+StPeter
+Sistine
+VaticanMuseums
+HolySee
+SwissGuard
+VaticanLibrary
+Apostolic
+VaticanGardens
+Papal
+StPeterSquare
+VaticanCityState
+Borgo
+VaticanBank
